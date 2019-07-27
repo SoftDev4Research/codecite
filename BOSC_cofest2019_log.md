@@ -825,7 +825,7 @@ endpoints](https://www.google.com/url?q=https://developer.github.com/v3/apps/ava
 
 <span class="c9"></span>
 
-**Future work - at eLife sprint:**
+# Future work - at eLife sprint: #
 
   - <span class="c9">Deprecate node app and consider converting to a
     flask app, because there are helper apps</span>
